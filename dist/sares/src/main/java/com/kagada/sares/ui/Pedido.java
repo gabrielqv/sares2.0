@@ -1,22 +1,13 @@
 package com.kagada.sares.ui;
 
 import com.vaadin.flow.component.button.Button;
-import com.vaadin.flow.component.checkbox.Checkbox;
 import com.vaadin.flow.component.combobox.ComboBox;
-import com.vaadin.flow.component.html.H1;
-import com.vaadin.flow.component.html.H3;
-import com.vaadin.flow.component.html.NativeButton;
-import com.vaadin.flow.component.html.Span;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.radiobutton.RadioButtonGroup;
 import com.vaadin.flow.component.radiobutton.RadioGroupVariant;
 import com.vaadin.flow.component.textfield.TextArea;
-import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.Route;
-import javafx.geometry.Side;
-
-import static jdk.nashorn.internal.objects.ArrayBufferView.length;
 
 class UndoNode {
     public UndoNode next;
@@ -63,6 +54,7 @@ class myUndoStack{
 
 
 }
+
 @Route("Pedido")
 public class Pedido extends  VerticalLayout{
     public Pedido(){

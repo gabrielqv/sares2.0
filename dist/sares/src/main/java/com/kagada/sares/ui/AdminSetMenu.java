@@ -39,6 +39,7 @@ class myThree {
 
     public void insertPublic(String newString, long quantity) {
         root = insert(newString, root, quantity);
+        if (cacheHeight > height) height = cacheHeight;
         cacheHeight = 0;
         count++;
 
@@ -172,7 +173,7 @@ public class AdminSetMenu extends VerticalLayout {
             testThree.insertPublic(String.valueOf(r.nextInt()), 10);
         }
         testThree.insertPublic(String.valueOf(r.nextInt()), 10, "debugging = True");*/
-        int bound = 1-000; /// insert tester
+        int bound = 1-000; /// insert
         long n = 100000;
 long cache;
         Notification.show("quantity of data is " + String.valueOf(n*3));

@@ -70,7 +70,6 @@
         <element id="file-copy" path="$PROJECT_DIR$/target/my-todo-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="my-todo/web/Web" />
-      <element id="gwt-compiler-output" facet="my-todo/gwt/GWT" />
     </root>
   </artifact>
 </component>

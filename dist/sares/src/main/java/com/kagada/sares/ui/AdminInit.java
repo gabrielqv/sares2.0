@@ -1,11 +1,10 @@
 package com.kagada.sares.ui;
 
-import com.kagada.sares.data.Storage;
-import com.vaadin.flow.component.ClickEvent;
+
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.accordion.Accordion;
-import com.vaadin.flow.component.accordion.AccordionPanel;
 import com.vaadin.flow.component.button.Button;
+import com.vaadin.flow.component.notification.Notification;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.html.*;
@@ -14,31 +13,13 @@ import com.vaadin.flow.component.textfield.TextField;
 import com.vaadin.flow.router.PreserveOnRefresh;
 import com.vaadin.flow.router.Route;
 
-import com.vaadin.flow.internal.ReflectTools;
-
-import java.io.Serializable;
-import java.lang.reflect.Method;
-
-import java.util.Map;
-import java.util.Optional;
-
 @Route("Admin")
 @PreserveOnRefresh
 
 
 public class AdminInit extends VerticalLayout {
 
-    private void refresh(Optional<AccordionPanel> panel) {
 
-        if (panel.get().getSummary().equals("Principales")) {
-            VerticalLayout l = new VerticalLayout();
-            for (Map.Entry<String, Integer> entry : Storage.principales.entrySet()) {
-                H1 text = new H1(entry.getKey() + " " + entry.getValue());
-                l.add(text);
-            }
-            panel.get().addContent(l);
-        }
-    }
 
     private int iHateDoubles(Double d){
         int myLovelyInt = d.intValue();
@@ -81,7 +62,7 @@ public class AdminInit extends VerticalLayout {
         NumberField cantidad2 = new NumberField("Cantidad");
         Button addPrin2 = new Button("Añadir");
         addPrin2.addClickListener(click ->
-                Storage.acompañantes.put(plato2.getValue(), cantidad2.getValue().intValue())
+                Notification.show("this should update the database or data structure")
         );
         addPrin2.addClickShortcut(Key.ENTER);
 
@@ -103,8 +84,9 @@ public class AdminInit extends VerticalLayout {
         acompañamientos.add(new HorizontalLayout(plato2, cantidad2),addPrin2);
         accordion.add("Acompañamientos", acompañamientos);
         accordion.addOpenedChangeListener(e ->
-                refresh(accordion.getOpenedPanel())
+                Notification.show("this should be updated")
         );
+
 
         HorizontalLayout buttons = new HorizontalLayout();
         Button set = new Button("Definir menú");

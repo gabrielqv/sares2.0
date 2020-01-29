@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7faf8548-5f77-4a3a-8882-2d1ea0207e11" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,14 +21,273 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="$XSLT" />
+      <filtered-out-file-type name="GitIgnore" />
+      <filtered-out-file-type name="HgIgnore" />
+      <filtered-out-file-type name="IgnoreLang" />
+      <filtered-out-file-type name="Redshift" />
+      <filtered-out-file-type name="Angular2Html" />
+      <filtered-out-file-type name="AngularJS" />
+      <filtered-out-file-type name="CassandraQL" />
+      <filtered-out-file-type name="Derby" />
+      <filtered-out-file-type name="HiveQL" />
+      <filtered-out-file-type name="SparkSQL" />
+      <filtered-out-file-type name="Asp" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="CFML" />
+      <filtered-out-file-type name="ClickHouse" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="CoffeeScriptLiterate" />
+      <filtered-out-file-type name="Cookie" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="Decompiled SWF" />
+      <filtered-out-file-type name="Dockerfile" />
+      <filtered-out-file-type name="Drools" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="EQL" />
+      <filtered-out-file-type name="ECMA Script Level 4" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="EditorConfig" />
+      <filtered-out-file-type name="EJBQL" />
+      <filtered-out-file-type name="EL" />
+      <filtered-out-file-type name="Exasol" />
+      <filtered-out-file-type name="Flow JS" />
+      <filtered-out-file-type name="FTL" />
+      <filtered-out-file-type name="GenericSQL" />
+      <filtered-out-file-type name="Gherkin" />
+      <filtered-out-file-type name="Greenplum" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="GSP" />
+      <filtered-out-file-type name="GWT-CSS" />
+      <filtered-out-file-type name="GWT JavaScript" />
+      <filtered-out-file-type name="H2" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="HQL" />
+      <filtered-out-file-type name="HSQLDB" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="HTTP Request" />
+      <filtered-out-file-type name="DB2_IS" />
+      <filtered-out-file-type name="DB2" />
+      <filtered-out-file-type name="DB2_ZOS" />
+      <filtered-out-file-type name="InjectedFreeMarker" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="JavaScript 1.5" />
+      <filtered-out-file-type name="JavaScript 1.6" />
+      <filtered-out-file-type name="JavaScript 1.7" />
+      <filtered-out-file-type name="JavaScript 1.8" />
+      <filtered-out-file-type name="JPAQL" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JQuery-CSS" />
+      <filtered-out-file-type name="JShellLanguage" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSON5" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="JSRegexp" />
+      <filtered-out-file-type name="JSUnicodeRegexp" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="JVM" />
+      <filtered-out-file-type name="kotlin" />
+      <filtered-out-file-type name="KND" />
+      <filtered-out-file-type name="LESS" />
+      <filtered-out-file-type name="Manifest" />
+      <filtered-out-file-type name="MariaDB" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="TSQL" />
+      <filtered-out-file-type name="Mxml" />
+      <filtered-out-file-type name="MySQL" />
+      <filtered-out-file-type name="Nashorn JS" />
+      <filtered-out-file-type name="OGNL" />
+      <filtered-out-file-type name="Oracle" />
+      <filtered-out-file-type name="OracleSqlPlus" />
+      <filtered-out-file-type name="TEXT" />
+      <filtered-out-file-type name="Play" />
+      <filtered-out-file-type name="PointcutExpression" />
+      <filtered-out-file-type name="PostgreSQL" />
+      <filtered-out-file-type name="Properties" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="RELAX-NG" />
+      <filtered-out-file-type name="SASS" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="Shell Script" />
+      <filtered-out-file-type name="Smali" />
+      <filtered-out-file-type name="Snowflake" />
+      <filtered-out-file-type name="SPI" />
+      <filtered-out-file-type name="SpringDataQL" />
+      <filtered-out-file-type name="SpEL" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="SQL92" />
+      <filtered-out-file-type name="SQLite" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="SVG" />
+      <filtered-out-file-type name="Sybase" />
+      <filtered-out-file-type name="textmate" />
+      <filtered-out-file-type name="ThymeleafExpressions" />
+      <filtered-out-file-type name="ThymeleafIterateExpressions" />
+      <filtered-out-file-type name="ThymeleafSpringSecurityExtras" />
+      <filtered-out-file-type name="ThymeleafTemplatesExpressions" />
+      <filtered-out-file-type name="ThymeleafTemplatesFragmentExpressions" />
+      <filtered-out-file-type name="ThymeleafUrlExpressions" />
+      <filtered-out-file-type name="TML" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="UAST" />
+      <filtered-out-file-type name="UastContextLanguage" />
+      <filtered-out-file-type name="Vertica" />
+      <filtered-out-file-type name="VTL" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="XPath" />
+      <filtered-out-file-type name="XPath2" />
+      <filtered-out-file-type name="XsdRegExp" />
+      <filtered-out-file-type name="yaml" />
+    </file-type-list>
+  </component>
+  <component name="GotoFileConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ActionScript" />
+      <filtered-out-file-type name="Angular2Html" />
+      <filtered-out-file-type name="ASP" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="C#" />
+      <filtered-out-file-type name="C++" />
+      <filtered-out-file-type name="CFML" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="Cookie storage file" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="Cucumber" />
+      <filtered-out-file-type name="CVP" />
+      <filtered-out-file-type name="DGM File Type" />
+      <filtered-out-file-type name="Dictionary" />
+      <filtered-out-file-type name="Dockerfile" />
+      <filtered-out-file-type name="Drools" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Eclipse" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="EditorConfig" />
+      <filtered-out-file-type name="Enforced Plain Text" />
+      <filtered-out-file-type name="Erlang" />
+      <filtered-out-file-type name="Flow" />
+      <filtered-out-file-type name="FTL" />
+      <filtered-out-file-type name="GitIgnore file" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="GSP" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="Haskell" />
+      <filtered-out-file-type name="HgIgnore file" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="HTTP Request" />
+      <filtered-out-file-type name="IDEA_MODULE" />
+      <filtered-out-file-type name="IDEA_PROJECT" />
+      <filtered-out-file-type name="IDEA_WORKSPACE" />
+      <filtered-out-file-type name="IDL" />
+      <filtered-out-file-type name="IgnoreLang file" />
+      <filtered-out-file-type name="JAVA" />
+      <filtered-out-file-type name="JavaFX" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="Jest Snapshot" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JSCS" />
+      <filtered-out-file-type name="JSHELL" />
+      <filtered-out-file-type name="JSHint" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSON5" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="Kotlin" />
+      <filtered-out-file-type name="Kotlin/Native Def" />
+      <filtered-out-file-type name="Less" />
+      <filtered-out-file-type name="Literate CoffeeScript" />
+      <filtered-out-file-type name="Manifest" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="MavenConfig" />
+      <filtered-out-file-type name="MXML" />
+      <filtered-out-file-type name="PATCH" />
+      <filtered-out-file-type name="Perl" />
+      <filtered-out-file-type name="PHP" />
+      <filtered-out-file-type name="PLAIN_TEXT" />
+      <filtered-out-file-type name="Play" />
+      <filtered-out-file-type name="Properties" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="RNG Compact" />
+      <filtered-out-file-type name="Sass" />
+      <filtered-out-file-type name="Scratch" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="Shell Script" />
+      <filtered-out-file-type name="Smali" />
+      <filtered-out-file-type name="SourceMap" />
+      <filtered-out-file-type name="SPI" />
+      <filtered-out-file-type name="spring.binders" />
+      <filtered-out-file-type name="spring.factories" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="SVG" />
+      <filtered-out-file-type name="textmate" />
+      <filtered-out-file-type name="TML" />
+      <filtered-out-file-type name="tsconfig" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="VTL" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="YAML" />
+      <filtered-out-file-type name="yarn.lock" />
+      <filtered-out-file-type name="Angular Metadata JSON" />
+      <filtered-out-file-type name="ARCHIVE" />
+      <filtered-out-file-type name="CLASS" />
+      <filtered-out-file-type name="Database Element" />
+      <filtered-out-file-type name="DATASOURCE_STORAGE" />
+      <filtered-out-file-type name="dependency diagram" />
+      <filtered-out-file-type name="EJB" />
+      <filtered-out-file-type name="H2 Database" />
+      <filtered-out-file-type name="Image" />
+      <filtered-out-file-type name="J2EEModule" />
+      <filtered-out-file-type name="KJSM" />
+      <filtered-out-file-type name="KNM" />
+      <filtered-out-file-type name="kotlin_builtins" />
+      <filtered-out-file-type name="kotlin_module" />
+      <filtered-out-file-type name="Native" />
+      <filtered-out-file-type name="PeristenceUnit" />
+      <filtered-out-file-type name="ResourceBundle" />
+      <filtered-out-file-type name="Servlet" />
+      <filtered-out-file-type name="SQLite Database" />
+      <filtered-out-file-type name="SWF" />
+      <filtered-out-file-type name="UML" />
+      <filtered-out-file-type name="UNKNOWN" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1TWzdfY5SDqlks6Yfc23nG3VHfH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -37,18 +295,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kagada.sares.ui" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kagada.sares.data" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Jetty run " type="MavenRunConfiguration" factoryName="Maven">
@@ -77,6 +326,18 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,7 +354,19 @@
       <workItem from="1574034953200" duration="7323000" />
       <workItem from="1574048962257" duration="3307000" />
       <workItem from="1574594845495" duration="15490000" />
-      <workItem from="1576013145226" duration="297000" />
+      <workItem from="1576013145226" duration="1590000" />
+      <workItem from="1576070274036" duration="2838000" />
+      <workItem from="1576079057681" duration="642000" />
+      <workItem from="1576621271420" duration="6125000" />
+      <workItem from="1576631771186" duration="2757000" />
+      <workItem from="1576675991738" duration="1244000" />
+      <workItem from="1576770687481" duration="3939000" />
+      <workItem from="1576873254999" duration="2890000" />
+      <workItem from="1577028891197" duration="600000" />
+      <workItem from="1577453761150" duration="2962000" />
+      <workItem from="1580095443053" duration="1831000" />
+      <workItem from="1580146266870" duration="755000" />
+      <workItem from="1580328546444" duration="1137000" />
     </task>
     <servers />
   </component>
@@ -105,11 +378,114 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="224" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577455902747">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="530" y="224" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1600.900@0.0.1600.900" timestamp="1577455902747" />
+    <state x="596" y="333" width="408" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580096029247">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="596" y="333" width="408" height="242" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.900@0.0.1600.900" timestamp="1580096029247" />
+    <state x="647" y="345" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576629060915">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="647" y="345" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.900@0.0.1600.900" timestamp="1576629060915" />
+    <state x="530" y="195" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1577454014403">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="530" y="195" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.900@0.0.1600.900" timestamp="1577454014403" />
+    <state x="579" y="193" key="FileChooserDialogImpl" timestamp="1580330508645">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="579" y="193" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1580330508645" />
+    <state width="1556" height="279" key="GridCell.Tab.0.bottom" timestamp="1576980124883">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="279" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1576980124883" />
+    <state width="1556" height="279" key="GridCell.Tab.0.center" timestamp="1576980124883">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="279" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1576980124883" />
+    <state width="1556" height="279" key="GridCell.Tab.0.left" timestamp="1576980124882">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="279" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1576980124882" />
+    <state width="1556" height="279" key="GridCell.Tab.0.right" timestamp="1576980124883">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="279" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1576980124883" />
+    <state width="1556" height="241" key="GridCell.Tab.1.bottom" timestamp="1576772505853">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="241" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1576772505853" />
+    <state width="1556" height="241" key="GridCell.Tab.1.center" timestamp="1576772505853">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="241" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1576772505853" />
+    <state width="1556" height="241" key="GridCell.Tab.1.left" timestamp="1576772505853">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="241" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1576772505853" />
+    <state width="1556" height="241" key="GridCell.Tab.1.right" timestamp="1576772505853">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1556" height="241" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1576772505853" />
+    <state x="330" y="103" key="Maven.ArtifactSearchDialog" timestamp="1577454296849">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="330" y="103" key="Maven.ArtifactSearchDialog/0.0.1600.900@0.0.1600.900" timestamp="1577454296849" />
+    <state x="303" y="80" key="SettingsEditor" timestamp="1576876785350">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="303" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1576876785350" />
+    <state x="508" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1580146288971">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="508" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1580146288971" />
+    <state x="182" y="75" key="new project wizard" timestamp="1580330134876">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="182" y="75" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1580330134876" />
+    <state x="506" y="77" key="refactoring.ChangeSignatureDialog" timestamp="1577454223906">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="506" y="77" key="refactoring.ChangeSignatureDialog/0.0.1600.900@0.0.1600.900" timestamp="1577454223906" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1577457122705">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1577457122705" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kagada/sares/ui/Cocina.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kagada/sares/ui/Cocina.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="platos[j]" />
+        <watch expression="maxPedidosPorOrden - arrayTemp[0]" />
+        <watch expression="maxPedidosPorOrden - arrayTemp[3]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
     <option name="sizePresets">
