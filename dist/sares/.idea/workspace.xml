@@ -366,7 +366,10 @@
       <workItem from="1577453761150" duration="2962000" />
       <workItem from="1580095443053" duration="1831000" />
       <workItem from="1580146266870" duration="755000" />
-      <workItem from="1580328546444" duration="1137000" />
+      <workItem from="1580328546444" duration="1737000" />
+      <workItem from="1580672089097" duration="649000" />
+      <workItem from="1580698999031" duration="1131000" />
+      <workItem from="1581214043514" duration="1078000" />
     </task>
     <servers />
   </component>
@@ -403,10 +406,11 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="530" y="195" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.900@0.0.1600.900" timestamp="1577454014403" />
-    <state x="579" y="193" key="FileChooserDialogImpl" timestamp="1580330508645">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="619" y="193" key="FileChooserDialogImpl" timestamp="1580699371031">
+      <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="579" y="193" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1580330508645" />
+    <state x="619" y="193" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1580699371031" />
     <state width="1556" height="279" key="GridCell.Tab.0.bottom" timestamp="1576980124883">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -447,14 +451,16 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="303" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1576876785350" />
-    <state x="508" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1580146288971">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="550" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1580699363106">
+      <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="508" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1580146288971" />
-    <state x="182" y="75" key="new project wizard" timestamp="1580330134876">
-      <screen x="0" y="0" width="1600" height="900" />
+    <state x="550" y="277" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1580699363106" />
+    <state x="237" y="75" key="new project wizard" timestamp="1580672135290">
+      <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="182" y="75" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1580330134876" />
+    <state x="237" y="75" key="new project wizard/62.0.1538.900@62.0.1538.900" timestamp="1580672135290" />
     <state x="506" y="77" key="refactoring.ChangeSignatureDialog" timestamp="1577454223906">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
