@@ -338,6 +338,11 @@
       </list>
     </option>
   </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1581272874237" text="9995" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -370,6 +375,9 @@
       <workItem from="1580672089097" duration="649000" />
       <workItem from="1580698999031" duration="1131000" />
       <workItem from="1581214043514" duration="1078000" />
+      <workItem from="1581272529228" duration="1332000" />
+      <workItem from="1581273879484" duration="954000" />
+      <workItem from="1581297045406" duration="981000" />
     </task>
     <servers />
   </component>
@@ -390,6 +398,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="254" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581273996193">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="254" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900@0.0.1600.900" timestamp="1581273996193" />
     <state x="530" y="224" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577455902747">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -406,27 +418,35 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="530" y="195" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1600.900@0.0.1600.900" timestamp="1577454014403" />
-    <state x="619" y="193" key="FileChooserDialogImpl" timestamp="1580699371031">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state x="499" y="224" width="941" height="340" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1581272874223">
+      <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="579" y="193" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1580330508645" />
+    <state x="499" y="224" width="941" height="340" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1600.900@0.0.1600.900" timestamp="1581272874223" />
+    <state x="459" y="70" key="#my-todo_[jetty:run]" timestamp="1581274122836">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="459" y="70" key="#my-todo_[jetty:run]/0.0.1600.900@0.0.1600.900" timestamp="1581274122836" />
+    <state x="579" y="193" key="FileChooserDialogImpl" timestamp="1581274788949">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="579" y="193" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1581274788949" />
     <state x="619" y="193" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1580699371031" />
-    <state width="1556" height="279" key="GridCell.Tab.0.bottom" timestamp="1576980124883">
+    <state width="776" height="279" key="GridCell.Tab.0.bottom" timestamp="1581274834601">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="279" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1576980124883" />
-    <state width="1556" height="279" key="GridCell.Tab.0.center" timestamp="1576980124883">
+    <state width="776" height="279" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1581274834601" />
+    <state width="776" height="279" key="GridCell.Tab.0.center" timestamp="1581274834601">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="279" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1576980124883" />
-    <state width="1556" height="279" key="GridCell.Tab.0.left" timestamp="1576980124882">
+    <state width="776" height="279" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1581274834601" />
+    <state width="776" height="279" key="GridCell.Tab.0.left" timestamp="1581274834601">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="279" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1576980124882" />
-    <state width="1556" height="279" key="GridCell.Tab.0.right" timestamp="1576980124883">
+    <state width="776" height="279" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1581274834601" />
+    <state width="776" height="279" key="GridCell.Tab.0.right" timestamp="1581274834601">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1556" height="279" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1576980124883" />
+    <state width="776" height="279" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1581274834601" />
     <state width="1556" height="241" key="GridCell.Tab.1.bottom" timestamp="1576772505853">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -451,10 +471,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="303" y="80" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1576876785350" />
-    <state x="550" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1580699363106">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state x="508" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1581273879552">
+      <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="508" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1580146288971" />
+    <state x="508" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1581273879552" />
     <state x="550" y="277" key="com.intellij.ide.util.TipDialog/62.0.1538.900@62.0.1538.900" timestamp="1580699363106" />
     <state x="237" y="75" key="new project wizard" timestamp="1580672135290">
       <screen x="62" y="0" width="1538" height="900" />
@@ -465,10 +485,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="506" y="77" key="refactoring.ChangeSignatureDialog/0.0.1600.900@0.0.1600.900" timestamp="1577454223906" />
-    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1577457122705">
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1581272847744">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1577457122705" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1581272847744" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
